@@ -1,0 +1,7 @@
+config-server/.idea/
+reservation-service/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_1_1_RELEASE.xml
+reservation-service/.idea/
+reservation-service/target/
+reservation-service/.mvn/
+config-server/.mvn/
+config-server/target/
